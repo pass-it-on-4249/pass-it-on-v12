@@ -46,9 +46,9 @@ export default function ItemList() {
   const styles = {
       container: {
         marginTop: 40,
-        marginLeft: 580,
+        marginLeft: 290,
         padding: 0,
-        width: '45vw',
+        width: '60vw',
         display: 'grid',
         gridTemplateColumns: 'repeat(auto-fill, 260px)',
         gridAutoRows: '10px',
